@@ -27,8 +27,8 @@ The dataset can be directly loaded from this URL:
 - **Scikit-learn**: Implementation of supervised machine learning models.
 
 ## Usage
-- **Load the dataset from the provided URL.
-- **Perform exploratory data analysis (EDA) to understand the data.
-- **Split the data into training and testing sets.
-- **Train a simple linear regression model using scikit-learn.
-- **Predict the percentage score for 9.25 hours/day and visualize the results.
+- Load the dataset from the provided URL.
+- Perform exploratory data analysis (EDA) to understand the data.
+- Split the data into training and testing sets.
+- Train a simple linear regression model using scikit-learn.
+- Predict the percentage score for 9.25 hours/day and visualize the results.
